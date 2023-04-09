@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+
+    margin:0 ;
+    padding: 0;
+    background-color:#1abae2;
+    
+}
+
+.meio{
+    margin-top: 10px;
+    background-color: #1abae2;
+    margin:auto;
+    padding: auto;
+}
+img{
+    margin-top: 40px;
+    margin-left:345px;
+}
+button{
+    font-size: 16px;
+    width: 85px;
+    height: 28px;
+    margin-left: 620px;
+    box-shadow: 2px 2px 2px 2px rgb(82, 49, 49);
+    border-radius: 3px;
+
+}
+button:hover {
+    background-color: rgb(3, 43, 70);
+    color: rgb(247, 247, 235);
+}

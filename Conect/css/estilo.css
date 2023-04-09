@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+Body{
+    margin: 0;
+    padding: 0;
+  background-image: url('../img/fundo.jpg');
+}
+
+.corpo{
+   background-color: #1abae2;
+    width: 920px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 2px 2px 6px 6px #201717;
+}
+
+h4{
+    float: right;
+    margin-right: 40%;
+    font-family: 'Arial Narrow', Arial,;
+}
+.data1{
+    margin-left: 50%;
+}
+
+fieldset{
+
+    border-radius: 15px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+h1{
+    font-size: 27px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font: bold;
+   padding-top: 10px;
+}
+h3{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+section input{
+    border: none;
+    margin-top:  7px;
+   width: 300px;
+   background-color: #99d1df;
+   border-radius: 4px;
+  height: 18px;
+
+}
+
+textarea{
+    border: rgb(219, 213, 213);
+    background-color: #99d1df;
+}
+button{
+    background-color: aqua;
+   
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left:45%;
+    font-size: 20px;
+    border-radius: 8px;
+}
+button:hover {
+    background-color: rgb(24, 22, 22);
+    color: aliceblue;
+}
