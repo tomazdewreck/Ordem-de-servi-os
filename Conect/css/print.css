@@ -1,0 +1,18 @@
+.only-print{
+    display: none;
+}
+
+
+
+@media print{
+
+
+
+ .no-print{
+     display: none;  /* Aqui faz desaparecer*/
+ }
+
+ .only-print{
+     display: block; /*Aqui faz aparecer*/
+ }
+}
